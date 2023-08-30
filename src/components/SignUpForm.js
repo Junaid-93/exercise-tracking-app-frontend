@@ -97,7 +97,7 @@ function SignUpForm() {
                                         type='text'
                                         name='username'
                                         value={signupData.username}
-                                        id='typePasswordX'
+                                        id='typeUsernameX'
                                         className='form-control form-control-lg'
                                         placeholder='Username'
                                         onChange={handleChange}

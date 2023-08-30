@@ -7,7 +7,7 @@ function NavBarLanding() {
                 <div className='d-flex justify-content-left'>
                     <img
                         className={classes.Logo}
-                        src='https://rb.gy/p22fhw'
+                        src='/Logo.png'
                         alt='Logo'
                         title='Logo'
                     />
